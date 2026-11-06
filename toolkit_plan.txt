@@ -1,0 +1,22 @@
+Project: Personal Mini-Toolkit
+Author: Yasmin Ali Abdi
+
+Menu Text:
+--- My Mini Toolkit ---
+1. Simple Calculator
+2. To-Do List
+3. Number Guessing Game
+4. Quit
+Choose an option (1-4): 
+
+Tool 1: Simple Calculator
+- Description: Takes two numbers and an operator (+, -, *, /) and performs the calculation.
+- Concepts used: conditionals (if/else for the operator), f-strings, input/output.
+
+Tool 2: To-Do List
+- Description: Allows the user to add tasks to a list, view the list, and remove tasks.
+- Concepts used: lists (append/remove), while loop, conditionals, f-strings.
+
+Tool 3: Number Guessing Game
+- Description: The computer picks a random number between 1 and 10, and the user keeps guessing until they get it right.
+- Concepts used: while loop, conditionals (if guess is too high/low), random module, f-strings.
